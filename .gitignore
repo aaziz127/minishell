@@ -1,0 +1,12 @@
+# Compiled files
+*.o
+*.a
+
+# Binary
+minishell
+
+# macOS
+.DS_Store
+
+# Temp heredoc files
+/tmp/.msh_hd_*
